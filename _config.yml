@@ -134,6 +134,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/connersexton"
+    - label: "Resume"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.dropbox.com/s/qcnprkutimqumf3/CSS%20Resume.pdf?dl=0"
 
 # Site Footer
 footer:

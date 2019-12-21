@@ -15,4 +15,4 @@ In data science, my main areas of focus are machine learning, exploratory data a
 
 At Wesleyan, I've worked as a teaching assistant for courses such as *Intro to Statistical Consulting*, *Applied Data Analysis*, *Working with R*, and *Working with Stata*. Additionally, I work as a tutor in Wesleyan's [Quantitative Analysis Center](https://www.wesleyan.edu/qac/index.html), mentoring students in statistical concepts as well as programming languages such as R, SQL, and Stata. I am also a research assistant for [Wesleyan Media Project](https://mediaproject.wesleyan.edu); a non-partisan research group that collects, manages, analyzes, and disseminates data on political advertising. From spending to content to targeting, WMP collects and analyzes data in real time.
 
-### [Resume](https://www.dropbox.com/s/qcnprkutimqumf3/CSS%20Resume.pdf?dl=0)
+[More on my prior/current work experience.](https://www.dropbox.com/s/qcnprkutimqumf3/CSS%20Resume.pdf?dl=0)
