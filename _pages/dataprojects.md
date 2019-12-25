@@ -7,7 +7,7 @@ header:
   image: "/images/deltalab.jpg"
 ---
 
-A portfolio of machine learning projects...
+A portfolio of Data Science Projects
 
 {% include group-by-array collection=site.posts field="tags" %}
 
