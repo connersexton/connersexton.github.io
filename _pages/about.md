@@ -1,8 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: "/images/fieldheader.jpg"
 ---
 
 I am currently a senior at Wesleyan University studying Anthropology and Data Science.
