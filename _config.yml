@@ -137,6 +137,9 @@ author:
     - label: "Resume"
       icon: "fas fa-fw fa-link"
       url: "https://www.dropbox.com/s/qcnprkutimqumf3/CSS%20Resume.pdf?dl=0"
+    - label: "Stack Overflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/11734631/conner-sexton?tab=profile"
 
 # Site Footer
 footer:
