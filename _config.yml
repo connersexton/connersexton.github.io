@@ -134,12 +134,12 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/connersexton"
-    - label: "Resume"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.dropbox.com/s/qcnprkutimqumf3/CSS%20Resume.pdf?dl=0"
     - label: "Stack Overflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/11734631/conner-sexton?tab=profile"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "https://www.dropbox.com/s/qcnprkutimqumf3/CSS%20Resume.pdf?dl=0"
 
 # Site Footer
 footer:
