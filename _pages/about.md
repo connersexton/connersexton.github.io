@@ -3,11 +3,11 @@ title: "About"
 permalink: /about/
 ---
 
-I am currently a senior at Wesleyan University studying Anthropology and Data Science.
+I recently graduated from Wesleyan University with a BA in Anthropology and minor in Applied Data Science!
 
 In data science, my main areas of focus are machine learning, exploratory data analysis, text analysis, and data visualization.
 
-**Programs:** R, Python, SQL, SAS, Stata, SPSS, ArcGIS, MongoDB
+**Programs:** R, Python, SQL, SAS, Stata, SPSS, ArcGIS, MongoDB, Google Cloud Platform
 
 **Relevant Coursework:** Introduction to Machine Learning, Survival Analysis, Longitudinal Data Analysis, Network Analysis, Introduction to Text Mining, Exploratory Data Analysis
 
