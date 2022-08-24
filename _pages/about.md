@@ -3,7 +3,15 @@ title: "About"
 permalink: /about/
 ---
 
-I recently graduated from Wesleyan University with a BA in Anthropology and minor in Applied Data Science!
+I graduated from Wesleyan University in 2020 with a BA in Anthropology and minor in Applied Data Science.
+
+---
+## Now:
+
+Quantitative Marketing Analyst @ Google
+
+---
+## During Undergrad:
 
 In data science, my main areas of focus are machine learning, exploratory data analysis, text analysis, and data visualization.
 
